@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://kaushal95.github.io/csb-t5dz4k/static/css/main.8016b11f.css",
+    "main.js": "https://kaushal95.github.io/csb-t5dz4k/static/js/main.73f93d66.js",
+    "index.html": "https://kaushal95.github.io/csb-t5dz4k/index.html",
+    "main.8016b11f.css.map": "https://kaushal95.github.io/csb-t5dz4k/static/css/main.8016b11f.css.map",
+    "main.73f93d66.js.map": "https://kaushal95.github.io/csb-t5dz4k/static/js/main.73f93d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8016b11f.css",
+    "static/js/main.73f93d66.js"
+  ]
+}
